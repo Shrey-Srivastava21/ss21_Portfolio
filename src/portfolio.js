@@ -41,13 +41,13 @@ const socialMediaLinks = {
   github: "https://github.com/Shrey-Srivastava21",
   linkedin: "https://www.linkedin.com/in/shrey-srivastava21/",
   gmail: "shrey.srivastava2101@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  instagram: "https://www.instagram.com/layman_brother/",
-  twitter: "https://twitter.com/ashutosh_1919/",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  kaggle: "https://www.youtube.com/@shreysrivastava1434",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  // gitlab: "https://gitlab.com/saadpasta",
+  // instagram: "https://www.instagram.com/layman_brother/",
+  // twitter: "https://twitter.com/ashutosh_1919/",
+  // facebook: "https://www.facebook.com/saad.pasta7",
+  // kaggle: "https://www.youtube.com/@shreysrivastava1434",
+  // medium: "https://medium.com/@saadpasta",
+  // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -565,10 +565,10 @@ const achievementSection = {
       image: require("./assets/images/allportal.jpg"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        // {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Link",
+          url: "https://leetcode.com/shreyasdev2111/"
         }
       ]
     },
@@ -599,13 +599,13 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae1",
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e1",
       title: "Why REACT is The Best?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
@@ -626,7 +626,7 @@ const talkSection = {
     {
       title: "Lead / Winner / Dev / Hackathons...",
       subtitle: "Participated in hackathons organized by Amazon, Bajaj, Accenture, etc.",
-      slides_url: "https://bit.ly/saadpasta-slides",
+      slides_url: "https://bit.ly/saadpasta-slides1",
       event_url: "https://unstop.com/competitions/hackon-with-amazon-season-3-amazon-729950"
 
     }
