@@ -29,7 +29,7 @@ const greeting = {
     // "As a Software Development Engineer and Full-Stack WebApp Developer, I excel in creating visually impressive websites and apps with efficient, standout code. With a keen eye for detail, I seamlessly collaborate in team environments, focusing on enhancing digital experiences for a competitive edge. Proficient in problem-solving, I navigate challenges with composure under pressure. Whether crafting remarkable online experiences or contributing to innovative software solutions and built great websites."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1BItjWkDxLipkwcDPMHgZRYXOfQwxvZzP/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1cSfYUY7M_NMyxx-UPLDDxVK-j51Jp_Jc/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
